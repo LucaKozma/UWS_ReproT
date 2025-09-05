@@ -9,7 +9,8 @@ navbar:
     - text: "Home"
       href: index.html
       icon: fa-house
-    - text: "2024/2025"
-      href: 20242025.html
     - text: "2025/2026"
       href: 20252026.html
+    - text: "2024/2025"
+      href: 20242025.html
+    
