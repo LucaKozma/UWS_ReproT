@@ -1,0 +1,10 @@
+title: "UWS ReproducibiliTea"  
+author: "Luca Kozma"  
+output_dir: "docs"  
+output:
+  html_document:
+    theme: yeti
+navbar:
+  left:
+    - text: "UWS ReproducibiliTea"
+      href: ReproT.html
