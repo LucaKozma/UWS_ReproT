@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the UWS ReproducibiliTea home page!"
+title: "Welcome to the UWS ReproducibiliTea main page!"
 output_dir: "docs"  
 output:
   html_document:
