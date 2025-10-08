@@ -71,7 +71,7 @@ table {
 | **November 26**|     |
 |  **January 21**|     |
 | **February 04**|     |
-| **February 25**|     |
+| **February 25**|     |Branney, P. E., Brooks, J., Kilby, L., Newman, K. L., Norris, E., Pownall, M., Talbot, C. V., Treharne, G. J., & Whitaker, C. M. (2023). Three steps to open science for qualitative research in psychology. *Social and Personality Psychology Compass*, *17*(2), e12728. https://doi.org/10.1111/spc3.12728
 |    **March 18**|     |
 |    **April 29**|     |
 |      **May 20**|     |
