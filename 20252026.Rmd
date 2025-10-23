@@ -67,7 +67,7 @@ table {
 |Date            |     |                                                                                                Paper|
 |:---------------|:----|----------------------------------------------------------------------------------------------------:|
 |  **October 22**|     |Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., O’hara, C. C., ... & Halpern, B. S. (2017). Our path to better science in less time using open data science tools. *Nature Ecology & Evolution*, *1*(6), 0160. https://doi.org/10.1038/s41559-017-0160.
-| **November 05**|     |Suchikova, Y., Tsybuliak, N., Teixeira da Silva, J. A., & Nazarovets, S. (n.d.). GAIDeT (Generative AI Delegation Taxonomy): A taxonomy for humans to delegate tasks to generative artificial intelligence in scientific research and publishing. *Accountability in Research*, *0*(0), 1–27. https://doi.org/10.1080/08989621.2025.2544331
+| **November 05**|     |Suchikova, Y., Tsybuliak, N., Teixeira da Silva, J. A., & Nazarovets, S. (2025). GAIDeT (Generative AI Delegation Taxonomy): A taxonomy for humans to delegate tasks to generative artificial intelligence in scientific research and publishing. *Accountability in Research*, *0*(0), 1–27. https://doi.org/10.1080/08989621.2025.2544331
 | **November 26**|     |
 |  **January 21**|     |
 | **February 04**|     |
